@@ -17,7 +17,7 @@ const App = () => {
       <h1>Student Information System</h1>
       <h5>Powered By: moxDroid Labs Inc. || DevOps</h5>
       <StudentForm addStudent={addStudent} />
-      Developed By: Pritesh Patel
+      Developed By: Mario Rayala Jr
       <StudentList students={students} />
     </div>
   );
